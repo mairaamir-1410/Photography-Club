@@ -47,7 +47,7 @@ Photography Club Website
 3. Navigate through the site using the menu links
 
 **GITHUB REPOSITORY**
- [Repository Link ] https://github.com/mairaamir-1410/Photography-Club/new/site?filename=README.md
+ [Repository Link ]https://github.com/mairaamir-1410/Photography-Club
 
 **ACKNOWLEDGMENTS**
 • Hero image sourced from Unsplash  
