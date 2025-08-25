@@ -40,6 +40,7 @@ Photography Club Website
 • Event guidelines in ordered list  
 • Footer with copyright
 
+
 **HOW TO RUN**
 
 1. Clone or download the repository  
